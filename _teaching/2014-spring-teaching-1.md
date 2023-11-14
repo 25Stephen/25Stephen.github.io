@@ -2,7 +2,7 @@
 title: "Teaching experience"
 collection: teaching
 type: "Python for Scientific Computing"
-permalink: /teaching/2014-spring-teaching-1
+permalink: 
 venue: "KNUST, Department of Meteorology and Climate Science"
 date: 
 location: "Kumasi, Ghana"
