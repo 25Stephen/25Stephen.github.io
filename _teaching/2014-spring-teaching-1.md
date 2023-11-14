@@ -36,5 +36,5 @@ MSc Physics ( KNUST, Institute of Distance Learning), Year 1
 Python for Scientific Computing
 =====
 MET 264, Fall 2021
-BSc Meteorology and Climate Science, level 200
+BSc Meteorology and Climate Science, level 200.
 
