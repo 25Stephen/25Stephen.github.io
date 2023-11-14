@@ -12,7 +12,6 @@ I am a passionate Atmospheric and Big Data scientist. I hold a Bachelor of Scien
 
 Through my website, I aim to share my research, insights, and experiences in the field of Atmospheric Sciences. Feel free to connect with me on LinkedIn or explore this website to delve deeper into my work. Thank you for visiting my site, and I look forward to sharing the fascinating world of atmospheric science with you.
 
-For more info
-------
 # Kindly Note
+------
 ## Page is still under Construction
