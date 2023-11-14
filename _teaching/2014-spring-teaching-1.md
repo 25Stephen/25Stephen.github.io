@@ -1,20 +1,40 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Python for Scientific Computing"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "KNUST, Department of Meteorology and Climate Science"
+date: 
+location: "Kumasi, Ghana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Python for Scientific Computing
 ======
+MET 254, Spring, 2023
+BSc Meteorology and Climate Science, level 400
 
-Heading 2
+Biometeorology And Human Health
 ======
+MET 462, Spring 2023
+BSc Meteorology and Climate Science, level 400
 
-Heading 3
+Programming with Fortran
 ======
+MET 253, Fall 2022
+BSc Meteorology and Climate Science, level 200
+
+Environmental Physics I
+======
+PHY 369, Fall 2022
+BSc Physics, level 300
+
+Scientific Computing for Physics
+=====
+PHY 546, Summer 2022
+MSc Physics ( KNUST, Institute of Distance Learning), Year 1
+
+Python for Scientific Computing
+=====
+MET 264, Fall 2021
+BSc Meteorology and Climate Science, level 200
+
