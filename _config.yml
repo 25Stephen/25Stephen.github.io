@@ -84,11 +84,11 @@ author:
   avatar           : "stephen-profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         : "Kwame Nkrumah University of Science and Technology"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "KNUST"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "25stephenasare@gmai.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
