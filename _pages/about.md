@@ -15,4 +15,4 @@ Through my website, I aim to share my research, insights, and experiences in the
 For more info
 ------
 # Kindly Note
-## Page is still under contstruction
+## Page is still under Construction
