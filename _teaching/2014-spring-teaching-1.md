@@ -11,7 +11,7 @@ location: "Kumasi, Ghana"
 iPython for Scientific Computing
 ======
 MET 254, Spring, 2023
-BSc Meteorology and Climate Science, level 400
+BSc Meteorology and Climate Science, level 200
 
 Biometeorology And Human Health
 ======
