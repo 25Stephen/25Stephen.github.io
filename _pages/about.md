@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello there, I'm Steve"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello, I'm Asare Stephen, a passionate meteorologist and climate scientist based in Kumasi, Ashanti, Ghana. I recently graduated with a Bachelor of Science with Honors in Meteorology and Climate Science from Kwame Nkrumah University of Science and Technology. My academic journey has been marked by a deep commitment to understanding the complexities of weather patterns and climate change.
+
+During my time at university, I had the privilege of contributing to groundbreaking research on climate variability and its impact on public health. Notably, I was honored with The Frontiers Award for Best Poster Presentation, highlighting my ability to communicate complex scientific concepts effectively.
+
+My research experience has allowed me to explore diverse aspects of meteorology, from analyzing drought metrics to studying the distribution of seasonal malaria transmission. I am skilled in various scientific computing tools and programming languages, including Python, FORTRAN, and R, which I've used to manipulate and visualize climate data.
+
+In addition to my academic pursuits, I actively engage with the scientific community through memberships in organizations like Black In AI and the KNUST Weather Forecasters (Forweb). I am also proud to be part of the GCRF African Swift Science for Weather Information and Forecasting Techniques program, contributing to weather forecasting in Kumasi.
+
+Through my website, I aim to share my research, insights, and experiences in the field of meteorology and climate science. Feel free to connect with me on LinkedIn or explore my GitHub repository to delve deeper into my work. Thank you for visiting my site, and I look forward to sharing the fascinating world of meteorology with you.
 
 A data-driven personal website
 ======
