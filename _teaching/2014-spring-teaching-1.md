@@ -8,7 +8,12 @@ date: 2022-01-10
 location: "Kumasi, Ghana"
 ---
 
-iPython for Scientific Computing
+
+
+
+
+
+Python for Scientific Computing
 ======
 MET 254, Spring, 2023
 BSc Meteorology and Climate Science, level 200
