@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience"
 collection: teaching
-type: ""
+type: "2023"
 permalink: /teaching/2014-spring-teaching-1
 venue: "KNUST, Department of Meteorology and Climate Science"
 date: ""
