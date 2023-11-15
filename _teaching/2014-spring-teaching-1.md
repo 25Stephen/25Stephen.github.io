@@ -1,10 +1,10 @@
 ---
 title: "Teaching experience"
 collection: teaching
-type: "2023-01-01"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "KNUST, Department of Meteorology and Climate Science"
-date: ""
+date: "2023"
 location: "Kumasi, Ghana"
 ---
 _
