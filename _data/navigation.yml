@@ -15,8 +15,8 @@ main:
   - title: "Teaching"
     url: /teaching/2014-spring-teaching-1
             
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "News"
+    url: /news/
