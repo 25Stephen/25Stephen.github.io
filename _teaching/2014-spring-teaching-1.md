@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "KNUST, Department of Meteorology and Climate Science"
-date: "2023"
+date: "2023-01-01"
 location: "Kumasi, Ghana"
 ---
 _
