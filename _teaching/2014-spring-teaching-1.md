@@ -1,19 +1,13 @@
 ---
 title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "KNUST, Department of Meteorology and Climate Science"
-date: 2020-01-01
+date: ""
 location: "Kumasi, Ghana"
 ---
-
-
-
-
-
-
-Python for Scientific Computing
+_
 ======
 MET 254, Spring, 2023
 BSc Meteorology and Climate Science, level 200
