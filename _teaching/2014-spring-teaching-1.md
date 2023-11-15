@@ -7,7 +7,7 @@ venue: "KNUST, Department of Meteorology and Climate Science"
 date: "2023-01-01"
 location: "Kumasi, Ghana"
 ---
-_
+Python for Scientific Computing
 ======
 MET 254, Spring, 2023
 BSc Meteorology and Climate Science, level 200
