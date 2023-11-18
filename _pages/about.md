@@ -24,9 +24,8 @@ Feel free to delve into my research projects and interests on this website.
       <li>Climate Change Impacts</li>
     </ul>
   </div>
-</div>
 
-<div class="col-md-5">
+  <div class="col-md-5">
     <h3>Skills</h3>
     <ul class="skills-list">
       <li>Python</li>
@@ -36,8 +35,6 @@ Feel free to delve into my research projects and interests on this website.
     </ul>
   </div>
 </div>
-
-
 
 ------
 ## Page is still under Construction
