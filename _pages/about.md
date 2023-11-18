@@ -32,7 +32,6 @@ Feel free to delve into my research projects and interests on this website.
       <li>Python</li>
       <li>R</li>
       <li>Fortran</li>
-      <li>High Dimensional Data Analysis</li>
       <li>Machine Learning</li>
     </ul>
   </div>
