@@ -83,7 +83,7 @@ author:
   name             : "Stephen Asare"
   avatar           : "profile2.jpg"
   bio              : "Atmospheric Science and Machine Learning"
-  location         : "Kumasi"
+  # location         : "Kumasi"
   employer         : "KNUST"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Stephen Asare"
+  # facebook         : "Stephen Asare"
   foursquare       :
   github           : "stephen-asare"
   google_plus      :
