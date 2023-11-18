@@ -4,7 +4,7 @@ main:
   #   url: /year-archive/
   
   - title: "Talks"
-    url: /talks/
+    url: /talks.html
 
   - title: "Teaching Experiences"
     url: /teaching_experiences.html
