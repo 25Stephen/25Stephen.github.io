@@ -1,22 +1,28 @@
 # main links links
 main:
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+  
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching Experiences"
+    url: /teaching_experiences/
+
+  - title: "Research Experiences"
+    # url: /projects/
+
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Workshops and Conferences"
+  #   url: /conferences/
+    
   - title: "CV"
     url: /files/resume.pdf
     
   # - title: "Portfolio"
   #   url: /portfolio/
-    
-  # - title: "Publications"
-  #   url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching_experiences/
-            
-  # - title: "Blog Posts"
-  #   url: /year-archive/
     
   - title: "News"
     url: /news/
