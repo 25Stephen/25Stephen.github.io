@@ -12,8 +12,8 @@ main:
   - title: "Research Experiences"
     url: /research_experiences.html
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Workshops and Conferences"
   #   url: /conferences/
