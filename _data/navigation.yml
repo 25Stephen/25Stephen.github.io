@@ -10,7 +10,7 @@ main:
     url: /teaching_experiences.html
 
   - title: "Research Experiences"
-    # url: /projects/
+    url: /research_experiences.html
 
   - title: "Publications"
     url: /publications/
