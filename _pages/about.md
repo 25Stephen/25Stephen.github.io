@@ -22,10 +22,22 @@ Feel free to delve into my research projects and interests on this website.
       <li>Data Assimilation</li>
       <li>NWP</li>
       <li>Climate Change Impacts</li>
-      <li>Weather</li>
     </ul>
   </div>
 </div>
+
+<div class="col-md-5">
+    <h3>Skills</h3>
+    <ul class="skills-list">
+      <li>Python</li>
+      <li>R</li>
+      <li>Fortran</li>
+      <li>High Dimensional Data Analysis</li>
+      <li>Machine Learning</li>
+    </ul>
+  </div>
+</div>
+
 
 
 ------
