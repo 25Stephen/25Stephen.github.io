@@ -14,12 +14,28 @@ Proficient in high and low-level programming languages—Python, R, Fortran, and
 
 Feel free to delve into my research projects and interests on this website. 
 
-| Interests                    | Skills                  |
-|------------------------------|-------------------------|
-| - Atmospheric Science        | - Python                |
-| - Data Assimilation          | - R                     |
-| - NWP (Numerical Weather Prediction) | - Fortran         |
-| - Climate Change Impacts     | - Machine Learning      |
+<div class="row">
+  <div class="col-md-5">
+    <h3>Interests</h3>
+    <ul class="interests-list">
+      <li>Atmospheric Science</li>
+      <li>Data Assimilation</li>
+      <li>NWP</li>
+      <li>Climate Change Impacts</li>
+    </ul>
+  </div>
+
+  <div class="col-md-5">
+    <h3>Skills</h3>
+    <ul class="skills-list">
+      <li>Python</li>
+      <li>R</li>
+      <li>Fortran</li>
+      <li>Machine Learning</li>
+    </ul>
+  </div>
+</div>
+
 
 ------
 ## Page is still under Construction
