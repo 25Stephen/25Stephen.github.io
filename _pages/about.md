@@ -36,8 +36,3 @@ Feel free to delve into my research projects and interests on this website.
     </ul>
   </div>
 </div>
-
-
-
-------
-## Page is still under Construction
