@@ -15,16 +15,18 @@ Proficient in high and low-level programming languages—Python, R, Fortran, and
 Feel free to delve into my research projects and interests on this website. 
 
 <div style="display: flex; justify-content: space-between;">
-<div class="column">
-  <div class="col-md-5">
-    <h3>Interests</h3>
-    <ul class="interests-list">
-      <li>Atmospheric Science</li>
-      <li>Data Assimilation</li>
-      <li>NWP</li>
-      <li>Climate Change Impacts</li>
-    </ul>
+  <div class="column">
+    <div class="col-md-5">
+      <h3>Interests</h3>
+      <ul class="interests-list">
+        <li>Atmospheric Science</li>
+        <li>Data Assimilation</li>
+        <li>NWP</li>
+        <li>Climate Change Impacts</li>
+      </ul>
+    </div>
   </div>
+
 
   <div class="col-md-5">
     <h3>Skills</h3>
@@ -46,5 +48,4 @@ Feel free to delve into my research projects and interests on this website.
 <!--       <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/></a> -->
       <a href="https://www.arcgis.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="git" width="60" height="60"/></a>
     </p>
-  </div>
 </div>
