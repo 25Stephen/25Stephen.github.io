@@ -18,16 +18,17 @@ Feel free to delve into my research projects and interests on this website.
   <div class="column">
     <div class="col-md-5">
       <h3>Interests</h3>
-      <ul class="interests-list" style="display: flex; list-style-type: none; padding: 0;">
-        <li style="margin-right: 5px;">Atmospheric Science</li>
-        <li style="margin-right: 10px;">Data Assimilation</li>
-        <li style="margin-right: 10px;">NWP</li>
-        <li style="margin-right: 10px;">Climate Change Impacts</li>
-        <li style="margin-right: 10px;">Infectious Disease Modeling</li>
+      <ul class="interests-list" style="display: flex; flex-direction: column; list-style-type: none; padding: 0;">
+        <li style="margin-bottom: 5px;">Atmospheric Science</li>
+        <li style="margin-bottom: 5px;">Data Assimilation</li>
+        <li style="margin-bottom: 5px;">NWP</li>
+        <li style="margin-bottom: 5px;">Climate Change Impacts</li>
+        <li style="margin-bottom: 5px;">Infectious Disease Modeling</li>
       </ul>
     </div>
   </div>
 </div>
+
 
 
 
