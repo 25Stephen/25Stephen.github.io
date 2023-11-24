@@ -22,7 +22,8 @@ Feel free to delve into my research projects and interests on this website.
         <li style="margin-right: 10px;">Atmospheric Science</li>
         <li style="margin-right: 10px;">Data Assimilation</li>
         <li style="margin-right: 10px;">NWP</li>
-        <li>Climate Change Impacts</li>
+        <li style="margin-right: 10px;">Climate Change Impacts</li>
+        <li style="margin-right: 10px;">Infectious Disease Modeling</li>
       </ul>
     </div>
   </div>
