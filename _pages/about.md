@@ -15,7 +15,7 @@ Proficient in high and low-level programming languages—Python, R, Fortran, and
 Feel free to delve into my research projects and interests on this website. 
 
 <div style="display: flex; justify-content: space-between;">
-<div class="row">
+<div class="column">
   <div class="col-md-5">
     <h3>Interests</h3>
     <ul class="interests-list">
