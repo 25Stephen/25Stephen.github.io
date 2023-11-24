@@ -38,7 +38,6 @@ Feel free to delve into my research projects and interests on this website.
       <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fortran.svg" alt="fortran" width="40" height="40"/></a>
       <a href="https://www.r-project.org/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"  alt="r programming" width="40" height="40"/></a>
       <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-
     </p>
   </div>
 </div>
