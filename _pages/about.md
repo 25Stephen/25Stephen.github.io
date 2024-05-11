@@ -36,7 +36,7 @@ Feel free to delve into my research projects and interests on this website.
     <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/R3kOH__fortran.svg" alt="fortran" width="40" height="40"/></a>
     <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/></a>   
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="jupyter notebook" width="40" height="40"/></a>
+<!--     <a href="" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="jupyter notebook" width="40" height="40"/></a>
 <!--       <a href="https://www.numpy.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="python" width="60" height="60"/></a> -->
     <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Matplotlib.svg" alt="matplotlib" width="60" height="60"/></a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="60" height="60"/></a>
@@ -44,10 +44,9 @@ Feel free to delve into my research projects and interests on this website.
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sci-kit learn" width="60" height="60"/></a>
     <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>  
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"  alt="r" width="40" height="40"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"  alt="r" width="40" height="40"/></a> -->
     <a href="https://www.r-project.org/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"  alt="r" width="40" height="40"/></a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<!--       <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/></a> -->
-    <a href="https://www.arcgis.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="git" width="60" height="60"/></a>
+</a>
   </p>
 </div>
